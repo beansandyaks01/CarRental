@@ -283,11 +283,11 @@ namespace HajurKoCarRental.Controllers
             }
         }
 
-        
+
 
 
         [HttpPost("login")]
-        public async Task<IActionResult> LoginUser(LoginUserDTO data)
+        public async Task<IActionResult> Login(LoginUserDTO data)
         {
             try
             {
@@ -295,7 +295,11 @@ namespace HajurKoCarRental.Controllers
 
                 if (result.Succeeded)
                 {
-                    return Ok("User logged in successfully!");
+                    var user = await _userManager.FindByNameAsync(data.Username);
+                    var roles = await _userManager.GetRolesAsync(user);
+                    var role = roles.FirstOrDefault();
+
+                    return Ok(new { UserId = user.Id, Username = user.UserName, Role = role });
                 }
                 else
                 {
