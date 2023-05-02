@@ -1,0 +1,122 @@
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\appsettings.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.staticwebassets.runtime.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.exe
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.deps.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.runtimeconfig.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.pdb
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.AssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\scopedcss\bundle\AdFrontendOne.styles.css
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\scopedcss\projectbundle\AdFrontendOne.bundle.scp.css
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.CopyComplete
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\refint\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.pdb
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.genruntimeconfig.cache
+C:\Users\asus\Desktop\db_ba\AdFrontendOne\obj\Debug\net6.0\ref\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\appsettings.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.staticwebassets.runtime.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.exe
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.deps.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.runtimeconfig.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.pdb
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Microsoft.JSInterop.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\MudBlazor.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.AssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.RazorAssemblyInfo.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.RazorAssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\scopedcss\bundle\AdFrontendOne.styles.css
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\scopedcss\projectbundle\AdFrontendOne.bundle.scp.css
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.CopyComplete
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\refint\AdFrontendOne.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.pdb
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.genruntimeconfig.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\AdFrontendOne\obj\Debug\net6.0\ref\AdFrontendOne.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\appsettings.Development.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\appsettings.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.staticwebassets.runtime.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.exe
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.deps.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.runtimeconfig.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\AdFrontendOne.pdb
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Microsoft.JSInterop.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\MudBlazor.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.AssemblyReference.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.AssemblyInfoInputs.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.AssemblyInfo.cs
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.CoreCompileInputs.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.MvcApplicationPartsAssemblyInfo.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.RazorAssemblyInfo.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.RazorAssemblyInfo.cs
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets\msbuild.AdFrontendOne.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets\msbuild.build.AdFrontendOne.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AdFrontendOne.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AdFrontendOne.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets.build.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\staticwebassets.development.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\scopedcss\bundle\AdFrontendOne.styles.css
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\scopedcss\projectbundle\AdFrontendOne.bundle.scp.css
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.csproj.CopyComplete
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\refint\AdFrontendOne.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.pdb
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\AdFrontendOne.genruntimeconfig.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\obj\Debug\net6.0\ref\AdFrontendOne.dll

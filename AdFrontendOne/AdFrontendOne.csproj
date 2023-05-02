@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\img\about.png" />
+    <None Include="wwwroot\css\img\banner-left.png" />
+    <None Include="wwwroot\css\img\banner-right.png" />
+    <None Include="wwwroot\css\img\bg-banner.jpg" />
+    <None Include="wwwroot\css\img\car-rent-1.png" />
+    <None Include="wwwroot\css\img\car-rent-2.png" />
+    <None Include="wwwroot\css\img\car-rent-3.png" />
+    <None Include="wwwroot\css\img\car-rent-4.png" />
+    <None Include="wwwroot\css\img\car-rent-5.png" />
+    <None Include="wwwroot\css\img\car-rent-6.png" />
+    <None Include="wwwroot\css\img\carousel-1.jpg" />
+    <None Include="wwwroot\css\img\carousel-2.jpg" />
+    <None Include="wwwroot\css\img\gallery-1.jpg" />
+    <None Include="wwwroot\css\img\gallery-2.jpg" />
+    <None Include="wwwroot\css\img\gallery-3.jpg" />
+    <None Include="wwwroot\css\img\gallery-4.jpg" />
+    <None Include="wwwroot\css\img\gallery-5.jpg" />
+    <None Include="wwwroot\css\img\gallery-6.jpg" />
+    <None Include="wwwroot\css\img\team-1.jpg" />
+    <None Include="wwwroot\css\img\team-2.jpg" />
+    <None Include="wwwroot\css\img\team-3.jpg" />
+    <None Include="wwwroot\css\img\team-4.jpg" />
+    <None Include="wwwroot\css\img\testimonial-1.jpg" />
+    <None Include="wwwroot\css\img\testimonial-2.jpg" />
+    <None Include="wwwroot\css\img\testimonial-3.jpg" />
+    <None Include="wwwroot\css\img\testimonial-4.jpg" />
+    <None Include="wwwroot\css\img\vendor-1.png" />
+    <None Include="wwwroot\css\img\vendor-2.png" />
+    <None Include="wwwroot\css\img\vendor-3.png" />
+    <None Include="wwwroot\css\img\vendor-4.png" />
+    <None Include="wwwroot\css\img\vendor-5.png" />
+    <None Include="wwwroot\css\img\vendor-6.png" />
+    <None Include="wwwroot\css\img\vendor-7.png" />
+    <None Include="wwwroot\css\img\vendor-8.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MudBlazor" Version="6.2.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+</Project>

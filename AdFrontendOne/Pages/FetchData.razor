@@ -1,0 +1,58 @@
+﻿@page "/fetchdata"
+
+<PageTitle>Weather forecast</PageTitle>
+
+@using AdFrontendOne.Data
+@using AdFrontendOne.Data.DTO
+@using AdFrontendOne.Data.Services
+
+@inject VehicleServices vehicleService
+
+<h1>Vechicle List</h1>
+
+<p>This component demonstrates fetching data from a service.</p>
+
+@if (vehicleDatas == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                
+                <th>Name</th>
+                <th>Vechicle Number</th>
+                <th>Vehicle Type</th>
+                <th>Fuel Type</th>
+                <th>Rent Per Day</th>
+                <th>Number Of Seats</th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var vehicledata in vehicleDatas)
+            {
+                <tr>
+                    <td>@vehicledata.Name</td>
+                    <td>@vehicledata.Vehicle_no</td>
+                    <td>@vehicledata.Type</td>
+                    <td>@vehicledata.Fuel_type</td>
+                    <td>@vehicledata.Rent_per_day</td>
+                    <td>@vehicledata.No_of_seat</td>
+                    
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<VehicleDTO>? vehicleDatas;
+
+    protected override async Task OnInitializedAsync()
+    {
+        vehicleDatas = await vehicleService.GetVehicleAsync();
+    }
+}

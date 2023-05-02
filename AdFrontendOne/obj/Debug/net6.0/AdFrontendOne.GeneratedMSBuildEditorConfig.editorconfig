@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AdFrontendOne
+build_property.RootNamespace = AdFrontendOne
+build_property.ProjectDir = D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Year 3\Sem I\Application Development\AppDev-Cw2\AdFrontendOne
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Rent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Services.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VydmljZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Signup.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnbnVwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ntjpkvn5to
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-x4tdfsevrt
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Year 3/Sem I/Application Development/AppDev-Cw2/AdFrontendOne/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

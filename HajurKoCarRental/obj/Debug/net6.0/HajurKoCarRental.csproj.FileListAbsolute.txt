@@ -1,0 +1,221 @@
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\appsettings.json
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.exe
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.deps.json
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.runtimeconfig.json
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.pdb
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.AssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\scopedcss\bundle\HajurKoCarRental.styles.css
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.CopyComplete
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\refint\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.pdb
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.genruntimeconfig.cache
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\obj\Debug\net6.0\ref\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\asus\Desktop\db_ba\HajurKoCarRental\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\appsettings.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.exe
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.deps.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.runtimeconfig.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.pdb
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\CloudinaryDotNet.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Humanizer.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.AssemblyInfoInputs.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.AssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\scopedcss\bundle\HajurKoCarRental.styles.css
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.CopyComplete
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\refint\HajurKoCarRental.dll
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.pdb
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.genruntimeconfig.cache
+C:\Users\asus\Desktop\db_ba\HajurkoRental\HajurKoCarRental\obj\Debug\net6.0\ref\HajurKoCarRental.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\appsettings.Development.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\appsettings.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.exe
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.deps.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.runtimeconfig.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\HajurKoCarRental.pdb
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\CloudinaryDotNet.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Humanizer.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.AssemblyReference.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.GeneratedMSBuildEditorConfig.editorconfig
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.AssemblyInfoInputs.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.AssemblyInfo.cs
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.CoreCompileInputs.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.MvcApplicationPartsAssemblyInfo.cs
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.MvcApplicationPartsAssemblyInfo.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets\msbuild.HajurKoCarRental.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets\msbuild.build.HajurKoCarRental.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HajurKoCarRental.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HajurKoCarRental.props
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.build.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\staticwebassets.development.json
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\scopedcss\bundle\HajurKoCarRental.styles.css
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.csproj.CopyComplete
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\refint\HajurKoCarRental.dll
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.pdb
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\HajurKoCarRental.genruntimeconfig.cache
+D:\Year 3\Sem I\Application Development\AppDev-Cw2\HajurKoCarRental\obj\Debug\net6.0\ref\HajurKoCarRental.dll
