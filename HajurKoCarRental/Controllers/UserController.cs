@@ -487,7 +487,6 @@ namespace HajurKoCarRental.Controllers
         [HttpGet("frequent-users")]
         public IActionResult GetFrequentUsers()
         {
-
             var rents = _dbContext.Rents.ToList();
             var users = _dbContext.Users.ToList();
 
@@ -496,9 +495,20 @@ namespace HajurKoCarRental.Controllers
                                      where rentGroup.Count() >= 3
                                      select rentGroup.Key).ToList();
 
+            var frequentUsers = (from user in users
+                                 join frequentCustomer in frequentCustomers on user.Id equals frequentCustomer
+                                 select new
+                                 {
+                                     user.Id,
+                                     user.FirstName,
+                                     user.LastName,
+                                     user.Address,
+                                     user.PhoneNumber
+                                 }).ToList();
 
-            return Ok(frequentCustomers);
+            return Ok(frequentUsers);
         }
+
 
 
 
@@ -513,7 +523,8 @@ namespace HajurKoCarRental.Controllers
             var inactiveCustomers = rents
                 .Where(rent => rent.RentalDate < threeMonthsAgo)
                 .Select(renter => renter.CustomerId)
-                .Distinct();
+                .Distinct()
+                .ToList();
 
 
             return Ok(inactiveCustomers);

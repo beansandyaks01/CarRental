@@ -64,31 +64,33 @@ public class VehicleRentController : ControllerBase
                 return BadRequest("Customer has unpaid damage fees and is not eligible for a new rental.");
             }
         }
+        else
+        {
+            return BadRequest("Customer Not Found");
+        }
 
-        var vehicle = _dbContext.Vehicles
+        /*var vehicle = _dbContext.Vehicles
             .SingleOrDefault(v => v.Id == data.VechileId);
 
         if (vehicle != null)
         {
             // Check if the vehicle has any unpaid rental bills or damage fees
             var unpaidBills = _dbContext.RentalPayments
-                .Where(rp => rp.Rent.VechileId == vehicle.Id && rp.IsPaid == false)
+                .Where(rentPayment => rentPayment.Rent.VechileId == vehicle.Id && rentPayment.IsPaid == false)
                 .ToList();
             var unpaidFees = _dbContext.DamagePayments
-                .Where(dp => dp.DamageRequest.RentId == vehicle.Id && dp.IsPaid == false)
+                .Where(damagePayment => damagePayment.DamageRequest.RentId == vehicle.Id && damagePayment.IsPaid == false)
                 .ToList();
             if (unpaidBills.Count > 0 || unpaidFees.Count > 0)
             {
                 vehicle.isAvailable = true;
                 _dbContext.SaveChanges();
-                return BadRequest("Vehicle has unpaid rental bills or damage fees and is not available for rental.");
-            }
-            else
-            {
-                vehicle.isAvailable = true;
-                _dbContext.SaveChanges();
-            }
-        }
+                return BadRequest("You cannot rent further. Please clear your dues to rent!");
+            }           
+        }else
+        {
+            return BadRequest("Vehicle Not Found");
+        }*/
         var newRent = new Rent
         {
             Id = Guid.NewGuid(),
@@ -291,9 +293,9 @@ public class VehicleRentController : ControllerBase
         var vehicles = _dbContext.Vehicles.ToList();
 
         // Retrieve cars that have not been rented
-        var notRentedCars = from v in vehicles
-                            where !rents.Any(r => r.VechileId == v.Id)
-                            select v;
+        var notRentedCars = from vehicle in vehicles
+                            where !rents.Any(rent => rent.VechileId == vehicle.Id)
+                            select vehicle;
 
 
         return Ok(notRentedCars);

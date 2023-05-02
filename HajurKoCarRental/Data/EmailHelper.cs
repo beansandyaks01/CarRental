@@ -22,36 +22,7 @@ namespace HajurKoCarRental.Data
             _dbContext = dbContext;
         }
 
-        public async Task SendEmailAsync(string userId, string subject, string message)
-        {
-            try
-            {
-                var user = await _userManager.FindByIdAsync(userId);
-                if (user == null)
-                {
-                    throw new Exception("User not found.");
-                }
-
-                _mailMessage.Subject = subject;
-                _mailMessage.To.Add(new MailAddress(user.Email));
-                _mailMessage.Body = $"{message}";
-
-                var smtpClient = new SmtpClient("smtp.gmail.com")
-                {
-                    Port = 587,
-                    Credentials = new NetworkCredential(_fromMail, _fromPassword),
-                    EnableSsl = true,
-                    Timeout = 10000
-                };
-
-                smtpClient.Send(_mailMessage);
-            }
-            catch (Exception ex)
-            {
-                throw new Exception($"Failed to send email: {ex.Message}");
-            }
-        }
-
+        
         public async Task SendRegistrationSuccessEmailAsync(string userId)
         {
             try
@@ -173,8 +144,6 @@ namespace HajurKoCarRental.Data
                 throw new Exception($"Failed to send email: {ex.Message}");
             }
         }
-
-
 
     }
 }

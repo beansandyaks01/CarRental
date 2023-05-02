@@ -34,6 +34,14 @@ namespace HajurKoCarRental.Controllers
             return Ok(response);
         }
 
+        [HttpGet("view-offer-{id}")]
+        public async Task<IActionResult> GetSpecialOfferById(Guid id)
+        {
+            var response = await _dbContext.SpecialOffers.FindAsync(id);
+            return Ok(response);
+        }
+
+
         [HttpPost("publish-offer")]
         public async Task<IActionResult> InsertOffer(InsertSpecialOfferDTO data)
         {

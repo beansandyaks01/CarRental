@@ -13,8 +13,4 @@ namespace HajurKoCarRental.Data
         public string Address   { get; set; }
     }
     
-    public class ApplicationRole:IdentityRole
-    {
-
-    }
 }
